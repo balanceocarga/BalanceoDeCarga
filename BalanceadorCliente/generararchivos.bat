@@ -1,0 +1,1 @@
+wsimport -keep -s src -d bin "http://localhost:8080/BalanceadorServidor/Balanceador?wsdl"
